@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1{
     /* margin: 20px; */
     /* text-align: center; */
@@ -70,3 +71,62 @@ a:active{
     height: 100vh;
     border: 1px solid black;
 }
+=======
+h1{
+    margin: 20px;
+    text-align: center;
+    color: white;
+    background-color: blueviolet;
+    border: 2px solid black;
+    padding: 5px;
+    border-radius: 3px;
+
+}
+
+ 
+
+.left{
+    width: 20%;
+     float: left;
+    text-align: center;
+position: fixed;
+margin: 0;
+
+}
+.right{
+    width:80%;
+    text-align: center;
+   background-color: deepskyblue;
+    float: right;
+
+}
+ a{
+  font-size: xx-large;
+    font-family: sans-serif;
+    margin: 0;
+    display: grid;
+    border: 2px solid rgb(230, 93, 35);
+    border-radius: 10px;
+    padding: 2px;
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+margin: 3px;
+/* text-shadow: 0.5px 1px; */
+} 
+img{
+    width: 50%;height: 600px;
+border: 2px dotted black;
+border-radius: 10px;
+margin: 15px;
+
+} 
+img:hover{
+   border: 10px solid gold;transition: 1s;
+}
+a:hover{
+    border: none;
+    background-color: gold;
+
+}
+>>>>>>> 3903f1075bac26725042cc2737cfa125d25f8060
